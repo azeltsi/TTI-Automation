@@ -1,4 +1,4 @@
-# Project Title
+# TTI-Automation
 
 One Paragraph of the project description
 
@@ -73,7 +73,7 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
+  - **Alexandra Zeltsi** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of
